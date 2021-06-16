@@ -1,2 +1,7 @@
 # DirectX-End-User-Runtime
-DirectX Legacy Library(Using My Library)
+
+Microsoftが開発したDirectXのレガシーライブラリです。<br>
+ChCppLibraryで利用するためのものです。<br>
+
+# Download Site
+https://www.microsoft.com/ja-JP/download/details.aspx?id=6812
